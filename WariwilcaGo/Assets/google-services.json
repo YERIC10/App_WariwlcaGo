@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "945572842216",
+    "firebase_url": "https://app-warivilca-default-rtdb.firebaseio.com",
+    "project_id": "app-warivilca",
+    "storage_bucket": "app-warivilca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:945572842216:android:b0b7bab185e08c8287575d",
+        "android_client_info": {
+          "package_name": "com.UC.WariwilcaGo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "945572842216-5lf2lfm9lhqv3aivkljn6ru1tf7eennn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGXH4Nu4IjpnSLnjNM5ftbIP2CL4dNHXM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "945572842216-5lf2lfm9lhqv3aivkljn6ru1tf7eennn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
